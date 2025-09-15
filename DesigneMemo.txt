@@ -1,0 +1,15 @@
+Design Memo: Write Your Design Memo Include a 200–300 word response in your code or in a .txt file:
+- How does your list work?
+  My list is a linked list, which means it uses methods to add in numerical order values,
+  or in this circumstance names, to a created list. You also have the ability to search for and remove
+  what you are looking for from the list. In this particular assignment we created a waitlist, and we 
+  can add to the front, add to the back, remove, and print the waitlist in order to run the business.
+  Linked lists allow us to work with a waitlist that can potentially be large and constantly modified. 
+- What role does the head play?
+  The head is an important role that either tells you if the list is empty, or point to the first value
+  in that list. This is important because we need to use the head in order to use our methods. Add to the
+  head, or add to the head next (adding after the head value).
+- When might a real engineer need a custom list like this?
+  A real engineer might need a custom list like this because of the infinite possibility of what you can add
+  and subtract from the list. It doesn't just have a set list of items, you can make methods that add versitality
+  to normal lists. With a complex job like engineering, you need versatality. 
